@@ -1929,6 +1929,653 @@
   /* ===== policy page CSS End ====== */
   /* =============================== */
   
+
   
+
+
+
   
+
   
+  @media  (max-width: 575.98px) { 
+    /* common css Start */
+
+    /* Navbar Part Start */
+.navbar-toggler i {
+    font-size: 30px;
+    color: #fff;
+  }
+    /* Navbar Part End */
+
+    /* Footer Part Start */
+
+    #footer .container .row .col-lg-6 .icons {
+        justify-content: center;
+        margin-bottom: 30px;
+      }
+      
+      #footer .container .row .col-lg-6 .first-texst {
+        margin: 22px 0 38px;
+      }
+      
+      #footer .container .row .col-lg-6 .info_part {
+        margin: 20px auto 30px;
+      }
+      
+      #footer .container .row .col-lg-6 h3 {
+        text-align: center;
+      }
+      
+      #footer .container .row .col-lg-6 .text_of_footer {
+        margin: 14px auto 28px;
+        text-align: center;
+      }
+    /* Footer Part End */
+    /* Copy Right nav Part Start */
+      
+      
+    #copy_rignt_nav .container .main_part .one p {
+        margin: 0 auto;
+        width: 100%;
+        text-align: center;
+      }
+      
+      #copy_rignt_nav .container .main_part {
+        justify-content: center;
+        row-gap: 15px;
+      }
+      
+
+
+    /* Copy Right nav Part End */
+
+    /* common css End */
+
+    /* =============================== */
+    /* ======= Home CSS Start ======== */
+    /* =============================== */
+
+#banner {
+    padding: 70px 0;
+  }
+  
+  #banner .container .row .col-lg-5 h1 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+  }
+  
+  #banner .container .row .col-lg-5 p {
+    margin: 37px 0 43px;
+    text-align: center;
+  }
+  
+  #banner .container .row .col-lg-5 .buttons_banner {
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  #banner .container .row .col-lg-5 .buttons_banner .banner_view {
+    margin: 30px 0 60px;
+  }
+  
+  #banner .container .row .col-lg-7 .image_part {
+    justify-content: center;
+  }
+  
+  #we_work {
+    padding: 70px 0;
+  }
+  
+  #we_work .container .row .col-lg-5 .text_box h2 {
+    max-width: 100%;
+    text-align: center;
+  }
+  
+  #we_work .container .row .col-lg-5 .text_box p {
+    margin: 18px auto;
+    text-align: center;
+  }
+  
+  #we_work .container .row .col-lg-5 .text_box a {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 45px;
+  }
+  
+  #we_work .container .row .col-lg-3 .one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #we_work .container .row .col-lg-3 .one p {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #projects {
+    padding: 70px 0;
+  }
+  
+  #projects .container .tittle_part h3 {
+    width: 100%;
+    text-align: center;
+  }
+  
+  #projects .container .tittle_part a {
+    width: 100%;
+    text-align: center;
+  }
+  
+  #projects .container .row .col-lg-8 .hover_part {
+    width: 100%;
+    padding: 80px 35px 80px 48px;
+  }
+  
+  #projects .container .row .col-lg-4 .row .col-lg-12 .hover_part {
+    height: 100%;
+  }
+  
+  #projects .container .row .col-lg-4 .row {
+    column-gap: 32px;
+  }
+  
+  #features {
+    padding: 70px 0;
+  }
+  
+  #features .container .tittle_part h2 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  
+  #features .container .row .col-lg-4 .box {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  
+  #client {
+    padding: 70px 0;
+  }
+  
+  #client .container .row .col-lg-4 p {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #client .container .row .col-lg-8 h2 {
+    font-size: 25px;
+    line-height: 40px;
+    margin-top: 30px;
+  }
+  
+  #frequently {
+    padding: 70px 0;
+  }
+  
+  #frequently .container .row .col-lg-4 h3 {
+    text-align: center;
+    margin: 0 auto 16px;
+  }
+  
+  #frequently .container .row .col-lg-4 p {
+    text-align: center;
+  }
+  
+  #stellar .container .row .col-lg-6 {
+    padding: 60px 60px 48px 60px;
+  }
+  
+  #our_blog .container .row .col-lg-4 .card_part .text_part {
+    margin-bottom: 50px;
+  }
+    
+  #banner .container .row .col-lg-7 .image_part img {
+    width: 100%;
+  }
+  
+  #projects .container .row {
+    row-gap: 32px;
+  }
+  
+  #client .container .row .col-lg-4 h3 {
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+
+    /* =============================== */
+    /* ======= Home CSS End ======== */
+    /* =============================== */
+
+
+    /* =============================== */
+    /* ==== About US CSS Start ===== */
+    /* =============================== */
+
+
+#about_us_banner {
+  padding: 70px 0;
+}
+
+#about_us_banner .container .row .col-lg-6 h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+#about_us_banner .container .row .col-lg-6 h4 {
+  text-align: center;
+}
+
+#about_us_banner .container .row .col-lg-6 p {
+  text-align: center;
+  margin: 0 auto 30px;
+}
+
+#who_we_are .text_container .row .col-lg-6 h4 {
+  text-align: center;
+}
+
+#who_we_are .text_container .row .col-lg-6 h2 {
+  text-align: center;
+}
+
+#who_we_are .text_container .row .col-lg-6 p {
+  text-align: center;
+}
+
+#process {
+  padding: 70px 0;
+}
+
+#process .container .tittle_part h3 {
+  font-size: 30px;
+}
+
+#mission {
+  padding: 70px 0;
+}
+
+#mission .container .row .col-lg-6 h5 {
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+}
+
+#mission .container .row .col-lg-6 h3 {
+  text-align: center;
+  width: 100%;
+}
+
+#mission .container .row .col-lg-6 .image {
+  justify-content: center;
+}
+
+#mission .container .row .col-lg-6 p {
+  text-align: center;
+}
+
+#features .container .row .col-lg-4 .box p {
+  text-align: center;
+}
+
+.benifits .container .companies {
+  column-gap: 30px;
+  justify-content: space-evenly;
+  row-gap: 30px;
+}
+
+#team {
+  padding: 70px 0;
+}
+
+#team .container h2 {
+  margin-bottom: 40px;
+}
+
+#team .container .row .col-lg-3 .card_part .images_box {
+  margin: 0 auto 30px;
+}
+
+#process .container .row .col-lg-3 .card_part .box::after {
+  left: 50%;
+}
+
+#process .container .row .col-lg-3 .card_part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#process .container .row .col-lg-3 .card_part p {
+  text-align: center;
+}
+#process .container .row .col-lg-3 .card_part .box::after {
+  display: none;
+  }
+
+
+
+    /* =============================== */
+    /* ===== About US CSS End ====== */
+    /* =============================== */
+
+    /* =============================== */
+    /* ===== Pricing CSS Start ====== */
+    /* =============================== */
+
+    /* pricing plan css Start */
+
+#pricing {
+  padding: 70px 0;
+}
+
+#pricing .container .row .col-lg-4 .card_part {
+  padding: 50px 40px;
+  text-align: center;
+}
+
+#pricing .container .row .col-lg-4 p {
+  margin: 8px auto 34px;
+}
+
+#pricing .container .row .col-lg-4 ul {
+  text-align: left;
+  max-width: 215px;
+  margin: 0 auto;
+}
+ 
+    /* =============================== */
+    /* ===== Pricing CSS End ====== */
+    /* =============================== */
+
+
+    /* =============================== */
+    /* ===== Features CSS Start ====== */
+    /* =============================== */
+
+
+#banner .container .row .col-lg-5 .buttons_banner .banner_btn {
+  margin-bottom: 30px;
+}
+
+#details_Part_one .container .row .col-lg-6 h4 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#details_Part_one .container .row .col-lg-6 h2 {
+  text-align: center;
+}
+
+#details_Part_one .container .row .col-lg-6 p {
+  text-align: center;
+}
+
+#details_Part_one {
+  padding: 70px 0;
+}
+
+#details_Part_one .container .row .col-lg-6 img {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =============================== */
+    /* ===== Features CSS End ====== */
+    /* =============================== */
+
+    /* =============================== */
+    /* ===== Work CSS Start ====== */
+    /* =============================== */
+
+
+#build {
+  padding: 70px 0;
+}
+
+#all_projects {
+  padding: 70px 0;
+}
+
+#all_projects .container .row .col-lg-6 .card_part h3 {
+  text-align: center;
+}
+
+#all_projects .container .row .col-lg-6 .card_part p {
+  text-align: center;
+}
+
+#all_projects .container .row .col-lg-6 .card_part a {
+  width: 100%;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =============================== */
+    /* ===== Work CSS End ====== */
+    /* =============================== */
+
+
+    /* =============================== */
+    /* ===== CAse Studies CSS Start ====== */
+    /* =============================== */
+
+
+#page .container .keywords {
+  flex-wrap: wrap;
+  row-gap: 20px;
+}
+
+#page .container .header_part h5 {
+  text-align: center;
+}
+
+#page .container .header_part h2 {
+  text-align: center;
+}
+
+#page .container .header_part p {
+  text-align: center;
+}
+
+#page {
+  padding: 70px 0;
+}
+
+#page .container .client_text {
+  flex-wrap: wrap;
+  row-gap: 20px;
+}
+
+#page .container .about_project {
+  padding: 70px 0;
+}
+
+#page .container .about_project h2 {
+  text-align: center;
+}
+
+#page .container .about_project p {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =============================== */
+    /* ===== CAse Studies CSS End ====== */
+    /* =============================== */
+
+    /* =============================== */
+    /* ===== Blog page banner CSS Start ====== */
+    /* =============================== */
+
+
+#our_blog_banner {
+  padding: 70px 0;
+}
+
+#our_blog_banner .container .main h3 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+#our_blog {
+  padding: 70px 0;
+}
+
+  #our_blog .container .row .col-lg-4 .card_part .text_part {
+    text-align: center;
+  }
+
+#our_blog_banner .container .main img {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =============================== */
+    /* ===== Blog page banner CSS End ====== */
+    /* =============================== */
+
+
+
+
+    /* =============================== */
+    /* ===== Contact Form page CSS Start ====== */
+    /* =============================== */
+
+
+#contact_form {
+  padding: 70px 0;
+}
+
+#contact_form .container .tittle_part p {
+  margin: 16px auto 40px;
+}
+
+#contact_form .container form {
+  padding: 55px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =============================== */
+    /* ===== Contact Form page CSS End ====== */
+    /* =============================== */
+
+    /* =============================== */
+    /* ===== policy page CSS Start ====== */
+    /* =============================== */
+
+
+
+
+
+
+
+
+    /* =============================== */
+    /* ===== policy page CSS End ====== */
+    /* =============================== */
+
+
+
+
+}
